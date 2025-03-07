@@ -1,0 +1,1 @@
+Fixed all containers being unbreakable because they were being mistaken as Loot Chests
