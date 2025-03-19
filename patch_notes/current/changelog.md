@@ -39,3 +39,4 @@
 1.0.038 - After being downed and helped up, you will be revived with half health.
 1.0.039 - Helping up a downed player no longer drains your hunger.
 1.0.040 - All loot tables now gain an extra 2 rolls per level of luck.
+1.0.041 - Added Horde Interactions Module, disables nametags and replaces them with /me funcationality and adds more fun stuff to it. 
