@@ -40,3 +40,13 @@
 1.0.039 - Helping up a downed player no longer drains your hunger.
 1.0.040 - All loot tables now gain an extra 2 rolls per level of luck.
 1.0.041 - Added Horde Interactions Module, disables nametags and replaces them with /me funcationality and adds more fun stuff to it. 
+1.0.042 - Updated Cuffed to 1.3.6
+1.0.043 - Removed EasyNPC
+1.0.044 - Added Conversations
+1.0.045 - Added Horde Conversations Pack, a datapack to add dialogue to the npcs.
+1.0.046 - Added all NPC's to the world.
+1.0.047 - Added customized bounties.
+1.0.048 - Updated Cuffed.
+1.0.049 - Changed respawn time to 5 minutes.
+1.0.050 - Added all the ingots to the loot-table - adjusted based on their worth.
+1.0.051 - Flare light is now server-side
