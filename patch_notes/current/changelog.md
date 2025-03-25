@@ -50,3 +50,4 @@
 1.0.049 - Changed respawn time to 5 minutes.
 1.0.050 - Added all the ingots to the loot-table - adjusted based on their worth.
 1.0.051 - Flare light is now server-side
+1.0.052 - Fixed an issue causing characters to get bugged when the server restarts.
