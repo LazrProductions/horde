@@ -51,3 +51,5 @@
 1.0.050 - Added all the ingots to the loot-table - adjusted based on their worth.
 1.0.051 - Flare light is now server-side
 1.0.052 - Fixed an issue causing characters to get bugged when the server restarts.
+
+1.1.000 - Many uncatalogued changes for campaign kickstart
